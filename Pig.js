@@ -4,4 +4,4 @@ class Pig extends BaseClass {
     this.image = loadImage("enemy.png");
   }
 
-};
+}
